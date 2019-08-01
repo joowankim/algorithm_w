@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 BOJ11403.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 BOJ13458.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 BOJ14888.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 BOJ15685.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 SWEA1824.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 SWEA5215.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190724/김주완 SWEA5356.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ17143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ1759.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ2206_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ2468.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ2661.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +64,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20190724/김주완 SWEA1824.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -89,9 +91,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="701" />
-    <option name="y" value="-20" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -100,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,22 +134,28 @@
               <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
               <item name="20190724" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm_w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
+              <item name="20190803" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/samsungSW" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190803" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190724" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190717" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190710" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190703" />
@@ -205,13 +213,20 @@
       <option name="project" value="LOCAL" />
       <updated>1563289467817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1563959122819</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563959122819</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.507732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,7 +328,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/20190724/김주완 SWEA1824.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
