@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ17143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ1759.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ2206_re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ2468.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190803/김주완 BOJ2661.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563959122819</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1564663407631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564663407631</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
