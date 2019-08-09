@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="" />
+    <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,10 +133,16 @@
               <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
               <item name="20190803" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm_w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
+              <item name="20190809" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,16 +150,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190803" />
-      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190724" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190717" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190710" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190703" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190626" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190809" />
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190803" />
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,13 +228,20 @@
       <option name="project" value="LOCAL" />
       <updated>1564663407631</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=".">
+      <created>1565342072920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565342072920</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.507732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38273194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
