@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20190809/김주완 SWEA1861.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ1003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ11049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ11053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ11054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ1463.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ2565.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190817/김주완 BOJ2748.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,14 +20,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190717/김주완 BOJ2884.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190717/김주완 BOJ10409.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ1003.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -57,11 +64,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20190724/김주완 SWEA1824.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20190809/김주완 SWEA1861.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -83,10 +99,11 @@
       <list>
         <option value="$PROJECT_DIR$/20190710/김주완 BOJ9465.py" />
         <option value="$PROJECT_DIR$/20190717.py" />
+        <option value="$PROJECT_DIR$/20190809/김주완 SWEA1861.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -138,6 +155,11 @@
               <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
               <item name="20190809" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm_w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
+              <item name="20190817" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,17 +172,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190809" />
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190803" />
+      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190724" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190717" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190710" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190703" />
       <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190626" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190809" />
-      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w\20190803" />
-      <recent name="C:\Users\Samsung\Documents\GitHub\algorithm_w" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,6 +196,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="김주완 SWEA1861" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm_w" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190809" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190809/김주완 SWEA1861.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.김주완 SWEA1861" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -235,18 +285,25 @@
       <option name="project" value="LOCAL" />
       <updated>1565342072920</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=".">
+      <created>1565345780281</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565345780281</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="0" width="814" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38273194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18884665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32479784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,6 +403,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190809/김주완 SWEA1861.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ1003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
