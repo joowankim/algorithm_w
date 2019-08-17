@@ -1,0 +1,56 @@
+#include <iostream>
+#include <algorithm>
+using namespace std;
+int dp[51][51];
+int curcive(int n, int m) {
+
+	int rcs[3];
+	for (int j = 0; j < 3; j++) {
+		cin >> rcs[j];
+	}//rcs input
+	if (rcs[2] <= 0) {
+		return 0;
+	}
+	while (1) {
+		if (rsp[0])
+		int temp = 0;
+		int row = rcs[1] - rcs[2] - 1;
+		for (int i = rcs[1] - rcs[2] - 1; i < rcs[1] + rcs[2] - 2; i++) {
+			temp = dp[row][i + 1];
+			dp[row][i + 1] = dp[row][i];
+		}
+		int colmn = rcs[0] - rcs[2] - 1;
+		for (int i = rcs[0] - rcs[2] - 1; i < rcs[0] + rcs[2] - 2; i++) {
+			temp = dp[i + 1][colmn];
+			dp[i + 1][colmn] = dp[i][colmn];
+		}
+		for (int i = rcs[1] + rcs[2] - 2; i < rcs[1] - rcs[2] - 1; i--) {
+			temp = dp[row][i - 1];
+			dp[row][i - 1] = dp[row][i];
+		}
+		for (int i = rcs[0] + rcs[2] - 2; i < rcs[0] + rcs[2] - 1; i--) {
+			temp = dp[i - 1][colmn];
+			dp[i - 1][colmn] = dp[i][colmn];
+		}
+		rsc[0]
+	}
+
+
+	return;
+}
+int main() {
+	int n, m, k;
+
+	cin >> n >> m >> k;
+	if (n < 3 || m < 3 || k>1 || k>6) {
+		return 0;
+	}
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			cin >> dp[i][j];
+		}
+	}// input
+	int result = curcive(n, m, k);
+
+	return 0;
+}
