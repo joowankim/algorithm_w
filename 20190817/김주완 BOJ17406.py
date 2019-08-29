@@ -1,7 +1,7 @@
 '''
-date: 2019-08-17
+date: 2019-08-29
 '''
-
+from pprint import pprint
 dir = [(1, 0), (-1, 0), (0, 1), (0, -1)]    # down, up, right, left
 
 N, M, K = map(int, input().split())
@@ -10,30 +10,37 @@ turn = [tuple(map(int, input().split())) for _ in range(K)]
 
 def permu(depth, order):
     if depth == K:
-        ori = arr[:]
-        for (r, c, s) in order:
-            tmp = ori[:]
-            for k in range(1, s+1):
-                top_left = (r-k-1, c-k-1)
-                top_right = (r-k-1, c+k-1)
-                bottom_right = (r+k-1, c+k-1)
-                bottom_left = (r+k-1, c-k-1)
-                for i in range(top_left[0], bottom_right[0]+1):
-                    for j in range(top_left[1], bottom_right[1]+1):
-                        if i == top_left[0] and top_left[1] <= j < top_right[1]:
-                            nx, ny = i + dir[2][0], j + dir[2][1]
-                            tmp[nx][ny] = ori[i][j]
-                        elif j == top_right[1] and top_right[0] <= i < bottom_right[0]:
-                            nx, ny = i + dir[0][0], j + dir[0][1]
-                            tmp[nx][ny] = ori[i][j]
-                        elif i == bottom_right[0] and bottom_left[1] < j <= bottom_right[0]:
-                            nx, ny = i + dir[3][0], j + dir[3][1]
-                            tmp[nx][ny] = ori[i][j]
-                        elif j == bottom_left[1] and top_left[0] < i <= bottom_left[0]:
-                            nx, ny = i + dir[1][0], j + dir[1][1]
-                            tmp[nx][ny] = ori[i][j]
-            ori = tmp[:]
-        min_ = 1000000000
+        ori = [[arr[i][j] for j in range(M)] for i in range(N)]
+        for i in order:
+            (r, c, s) = turn[i]
+            visit = [[0] * M for _ in range(N)]
+            sx, sy = r-s-1, c-s-1
+            ex, ey = r+s-1, c+s-1
+            cx, cy = sx, sy
+            d = 2
+            while not (sx, sy) == (ex, ey):
+                if visit[cx][cy] and (cx, cy) == (sx, sy):
+                    sx, sy = sx+1, sy+1
+                    ex, ey = ex-1, ey-1
+                    cx, cy = sx, sy
+                    continue
+                if d == 2 and cy == ey:
+                    d = 0
+                if d == 3 and cy == sy:
+                    d = 1
+                if d == 0 and cx == ex:
+                    d = 3
+                if d == 1 and cx == sx:
+                    d = 2
+                nx, ny = cx + dir[d][0], cy + dir[d][1]
+                visit[nx][ny] = ori[cx][cy]
+                cx, cy = nx, ny
+            for i in range(N):
+                for j in range(M):
+                    if visit[i][j]:
+                        ori[i][j] = visit[i][j]
+
+        min_ = sum(ori[0])
         for i in range(N):
             sum_ = sum(ori[i])
             if min_ > sum_:
@@ -44,8 +51,8 @@ def permu(depth, order):
     else:
         min_ = 100000000
         for i in range(K):
-            if turn[i] not in order:
-                val = permu(depth+1, order+[turn[i]])
+            if i not in order:
+                val = permu(depth+1, order+[i])
                 if min_ > val:
                     min_ = val
         return min_
