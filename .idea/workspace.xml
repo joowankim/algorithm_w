@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7c6075-c6df-4e51-babf-cb0201c25a60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20190931/김주완 BOJ10844.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190931/김주완 BOJ11055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190931/김주완 BOJ11057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190931/김주완 BOJ16437.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190931/김주완 BOJ1949.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190931/김주완 BOJ2897.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190904/김주완 BOJ9543.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190904/김주완 SWEA5656.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20190817/김주완 BOJ17406.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190817/김주완 BOJ17406.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190931/김주완 BOJ10844.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190831/김주완 BOJ10844.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190931/김주완 BOJ11055.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190831/김주완 BOJ11055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190931/김주완 BOJ11057.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190831/김주완 BOJ11057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190931/김주완 BOJ16437.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190831/김주완 BOJ16437.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190931/김주완 BOJ1949.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190831/김주완 BOJ1949.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20190931/김주완 BOJ2897.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190831/김주완 BOJ2897.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,37 +21,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ11055.py">
+        <entry file="file://$PROJECT_DIR$/20190904/김주완 BOJ9543.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="2" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="608">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ16437.py">
+        <entry file="file://$PROJECT_DIR$/20190904/김주완 SWEA5656.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="929">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ1949.py">
+        <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ1949.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="304">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ2897.py">
+        <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ2897.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="247">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -59,30 +60,24 @@
         <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ11403.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ13458.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-91" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ14888.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-452" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ15685.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-513" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -94,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ11053.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -107,6 +102,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[2, 2, 2]</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,14 +121,17 @@
         <option value="$PROJECT_DIR$/20190931/김주완 BOJ10844.py" />
         <option value="$PROJECT_DIR$/20190931/김주완 BOJ11057.py" />
         <option value="$PROJECT_DIR$/20190931/김주완 BOJ11055.py" />
-        <option value="$PROJECT_DIR$/20190931/김주완 BOJ16437.py" />
         <option value="$PROJECT_DIR$/20190931/김주완 BOJ1949.py" />
         <option value="$PROJECT_DIR$/20190931/김주완 BOJ2897.py" />
+        <option value="$PROJECT_DIR$/20190931/김주완 BOJ16437.py" />
+        <option value="$PROJECT_DIR$/20190904/김주완 BOJ9543.py" />
+        <option value="$PROJECT_DIR$/20190904/김주완 SWEA5656.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
+    <option name="x" value="768" />
+    <option name="y" value="-18" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -137,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,16 +190,23 @@
             <path>
               <item name="algorithm_w" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
-              <item name="20190931" type="462c0819:PsiDirectoryNode" />
+              <item name="20190831" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_w" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_w" type="462c0819:PsiDirectoryNode" />
+              <item name="20190904" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/NTIS/NLP/examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -227,49 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.김주완 BOJ2897">
-    <configuration name="김주완 BOJ11055" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm_w" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190931" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190931/김주완 BOJ11055.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="김주완 BOJ11057" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm_w" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190931" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190931/김주완 BOJ11057.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.김주완 SWEA5656">
     <configuration name="김주완 BOJ16437" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_w" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,13 +300,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="김주완 BOJ9543" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm_w" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190904" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190904/김주완 BOJ9543.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="김주완 SWEA5656" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm_w" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190904" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190904/김주완 SWEA5656.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.김주완 SWEA5656" />
+        <item itemvalue="Python.김주완 BOJ9543" />
         <item itemvalue="Python.김주완 BOJ2897" />
         <item itemvalue="Python.김주완 BOJ1949" />
         <item itemvalue="Python.김주완 BOJ16437" />
-        <item itemvalue="Python.김주완 BOJ11055" />
-        <item itemvalue="Python.김주완 BOJ11057" />
       </list>
     </recent_temporary>
   </component>
@@ -424,18 +433,26 @@
       <option name="project" value="LOCAL" />
       <updated>1566010088727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".">
+      <created>1567098648036</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567098648036</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17490494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2587601" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21428572" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,7 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ11057.py">
+    <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ11057.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="25" lean-forward="true" selection-end-line="14" selection-end-column="25" />
@@ -554,70 +571,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ10844.py">
+    <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ10844.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
           <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ11053.py">
+    <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ11055.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ11054.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ15685.py">
+    <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ16437.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513" />
+        <state relative-caret-position="760">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ14888.py">
+    <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ1949.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-452" />
+        <state relative-caret-position="304">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ13458.py">
+    <entry file="file://$PROJECT_DIR$/20190831/김주완 BOJ2897.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91" />
+        <state relative-caret-position="247">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ11403.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ11055.py">
+    <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ13458.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ14888.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190724/김주완 BOJ15685.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ11054.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190817/김주완 BOJ11053.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="152">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ2897.py">
+    <entry file="file://$PROJECT_DIR$/20190904/김주완 BOJ9543.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="608">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ1949.py">
+    <entry file="file://$PROJECT_DIR$/20190904/김주완 SWEA5656.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190931/김주완 BOJ16437.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="929">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
