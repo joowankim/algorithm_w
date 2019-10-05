@@ -1,0 +1,106 @@
+#include <vector>
+#include <iostream>
+#include <queue>
+using namespace std;
+#define max 10001
+struct edge {
+	int cost;
+	int weight;
+};
+vector<edge> node[max];
+
+void solution(int count) {
+	queue<int> q;
+	int depth[max], parent[max];
+	bool check[max];
+	
+	depth[1] = 0, check[1] = true, parent[1] = 0, q.push(1);
+
+	while (!q.empty()) { // parent and depth 
+		int x = q.front(); q.pop();
+		for (edge y : node[x]) {
+			if (check[y.cost]!=true) {
+				depth[y.cost] = depth[x] + 1;
+				check[y.cost] = true;
+				parent[y.cost] = x;
+				q.push(y.cost);
+			}
+		}
+	}
+
+	int result = 0;
+	for (int i = 1; i < count; i++) {
+		for (int j = i+1; j <= count; j++) {
+			int x = i, y = j;
+			int Max = 0;
+			while (1) {
+				if (depth[x] == depth[y]) {
+					if (parent[x] == parent[y]) {
+						if (x == y) {
+							break;
+						}
+						else {
+							int temp = parent[x];
+							int xWeight = 0, yWeight=0;
+							for (edge i : node[x]) {
+								if (i.cost == temp) {
+									xWeight = i.weight;
+									break;
+								}
+							}
+							for (edge i : node[y]) {
+								if (i.cost == temp) {
+									yWeight = i.weight;
+									break;
+								}
+							}
+
+							
+							Max += xWeight + yWeight;
+							break;
+						}
+					}
+					else {
+						int xParent = parent[x];
+						int yParent = parent[y];
+						Max += weight[x][xParent] + weight[y][yParent];
+						x = xParent;
+						y = yParent;
+					}
+				}
+				else {
+					if (depth[x] > depth[y]) {
+						int xParent = parent[x];
+						Max += weight[x][xParent];
+						x = xParent;
+					}
+					else {
+						int yParent = parent[y];
+						Max += weight[y][yParent];
+						y = yParent;
+					}
+				}
+			}
+			if (result < Max) {
+				result = Max;
+			}
+		}
+	}
+	cout << result;
+}
+int main() {
+	int count;
+	cin >> count;
+	for (int i = 1; i < count; i++) {
+		int x, y, z;
+		cin >>  x >> y >> z;
+		edge data;
+		data.cost = y;
+		data.weight = z;
+		node[x].push_back(data);
+		data.cost = x;
+		node[y].push_back(data);
+	}
+	solution(count);
+	return 0;
+}
